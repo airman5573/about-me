@@ -58,7 +58,7 @@
 
 ### `2018-03 ~ 2018-08` Alpool
   * 소개 : 회사에서 진행한 프로젝트입니다. 네이버의 지식인과 비슷한, 공무원/자격증 QnA사이트 입니다.
-  * 링크 : [alpool.co.kr](https://alpool.co.kr)
+  * 링크 : <stroke>[alpool.co.kr](https://alpool.co.kr)</stroke> 현재는 운영되지 않는 사이트입니다.
   * 참여도 : 90%
   * 사용기술 : WordPress(PHP, MySQL, HTML, CSS, Javascript)
   * 주요기능
@@ -69,7 +69,7 @@
 
 ### `2017-11 ~ 2018-02` QueensMallo
   * 소개 : 회사에서 진행한 프로젝트입니다. 호주와 한국을 대상으로 하는 다국어 쇼핑몰입니다.
-  * 링크 : [queensmallo.com](https://queensmallo.com)
+  * 링크 : <stroke>[queensmallo.com](https://queensmallo.com)</stroke> 현재는 운영하지 않는 사이트입니다.
   * 참여도 : 100%
   * 사용기술 : WordPress( PHP, MySQL, CSS, Javascript ), WooCommerce
   * 주요기능
