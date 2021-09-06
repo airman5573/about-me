@@ -34,7 +34,7 @@
 
 ### `2019-03` ~ `2021-10` 음성인식 포크레인
   * 소개 : 앱에서 음성으로 명령을 내려서 포크레인 장난감을 동작시키는 프로젝트입니다. 기업의 레크레이션 활동에 사용하기 위해서 만들었습니다. 차체 전부를 만든건 아니고, 기존의 포크레인 장난감의 컨트롤러 부분만 뜯어서 라즈베리파이와 아두이노및 모터드라이버를 넣었습니다.
-  * 시연 영상 : [작동영상(Google Drive Video)](https://drive.google.com/open?id=1Jy__hfxJhwODZStBajLXR5ns_bAmvJ4-), <strike>[앱(Google Drive Video)](https://drive.google.com/open?id=1c6P4M-L_L9WaAsH1h_HR6iKTr9k7Z3by)</strike> [미완성 iOS앱(Google Drive Video)](https://drive.google.com/file/d/1AwSyUpHJ4GDZ5MwFSE21ypxII6dB0JmA/view?usp=sharing)
+  * 시연 영상 : [리모콘 모드 앱영상 - Android](https://drive.google.com/file/d/1rgDtj0JWQ_sq5nhbAb-mNSGxvtf2sILh/view?usp=sharing) / [음성인식 모드 앱영상 - Android](https://drive.google.com/file/d/1-wAKmpUJOACFyX5N3_BOzrTobZlr1haA/view?usp=sharing) / [음성인식 작동 영상 - Android](https://drive.google.com/file/d/1-BfsPiPIfVmRKnQfmlx1N9zltzaRvacU/view?usp=sharing) / [리모콘 및 음성인식(미완성) - iOS](https://drive.google.com/file/d/1AwSyUpHJ4GDZ5MwFSE21ypxII6dB0JmA/view?usp=sharing) / [관리자 페이지](https://drive.google.com/file/d/1ZePv4SOkK3Gggz0y-zRBVFCk14lI_DBs/view?usp=sharing)
   * 참여도 : 70% (하드웨어쪽 전문가분들께 도움을 받았습니다)
   * 사용 기술 : React-Native, Node.js, MySQL, Ngrok, 라즈베리파이, 아두이노, 납땜
   * 주요 기능
