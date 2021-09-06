@@ -58,7 +58,7 @@
 
 ### `2018-03 ~ 2018-08` Alpool
   * 소개 : 회사에서 진행한 프로젝트입니다. 네이버의 지식인과 비슷한, 공무원/자격증 QnA사이트 입니다.
-  * 링크 : <stroke>[alpool.co.kr](https://alpool.co.kr)</stroke> 현재는 운영되지 않는 사이트입니다.
+  * 링크 : <strike>[alpool.co.kr](https://alpool.co.kr)</strike> 현재는 운영되지 않는 사이트입니다.
   * 참여도 : 90%
   * 사용기술 : WordPress(PHP, MySQL, HTML, CSS, Javascript)
   * 주요기능
@@ -69,7 +69,7 @@
 
 ### `2017-11 ~ 2018-02` QueensMallo
   * 소개 : 회사에서 진행한 프로젝트입니다. 호주와 한국을 대상으로 하는 다국어 쇼핑몰입니다.
-  * 링크 : <stroke>[queensmallo.com](https://queensmallo.com)</stroke> 현재는 운영하지 않는 사이트입니다.
+  * 링크 : <strike>[queensmallo.com](https://queensmallo.com)</strike> 현재는 운영하지 않는 사이트입니다.
   * 참여도 : 100%
   * 사용기술 : WordPress( PHP, MySQL, CSS, Javascript ), WooCommerce
   * 주요기능
@@ -96,7 +96,7 @@
     
 ### `2016-01 ~ 2016-09` DeepMind
   * 소개 : 이름과 달리 인공지능과 아무런 연관성이 없습니다. 이것 또한 아버지의 요청으로 만들게 되었습니다. Discovery와 기본적인 기능들은 같지만, 다른 팀원을 아웃시키는 기능이 있다는 특징이 있으며, Android와 iOS에서 구동되는 Native App입니다.
-  * 시연 영상 : <stroke>[iOS App(Google Drive Video)](https://drive.google.com/open?id=1aV16rPiWpza38Gd7mnnHiiSaAhVwmk9M) , [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1zp97Hes7XKngk1i2oXv7zjm6zVJjO-9W), Android App</stroke>
+  * 시연 영상 : <strike>[iOS App(Google Drive Video)](https://drive.google.com/open?id=1aV16rPiWpza38Gd7mnnHiiSaAhVwmk9M) , [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1zp97Hes7XKngk1i2oXv7zjm6zVJjO-9W), Android App</strike>
   * 참여도 : 100%
   * 사용기술 : PHP, Swift(iOS), Java(Android), MySQL, HTML, CSS, Javascript
   * 주요 기능
