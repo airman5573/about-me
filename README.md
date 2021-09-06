@@ -58,7 +58,7 @@
 
 ### `2018-03 ~ 2018-08` Alpool
   * 소개 : 회사에서 진행한 프로젝트입니다. 네이버의 지식인과 비슷한, 공무원/자격증 QnA사이트 입니다.
-  * 링크 : <strike>[alpool.co.kr](https://alpool.co.kr)</strike> 현재는 운영되지 않는 사이트입니다.
+  * 링크 : <strike>[alpool.co.kr](https://alpool.co.kr)</strike> 현재는 운영하지 않는 사이트입니다.
   * 참여도 : 90%
   * 사용기술 : WordPress(PHP, MySQL, HTML, CSS, Javascript)
   * 주요기능
