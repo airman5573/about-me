@@ -119,28 +119,3 @@
   * 기타 : 이 프로젝트는 결국 실패하였습니다. 왜냐하면, (1)라즈베리파이를 소형화 하는데 1천만원 이상의 견적을 하드웨어 업체로부터 받았고, (2)라즈베리파이와 와이파이를 핸드폰을 매개로 서로 연결하는 작업이 어려웠기 때문입니다.
 <br><br>
  
-
-### `2018-10` Emily
-  * 소개 : Sendgrid API를 활용하여 유저에게 설문조사 메일을 보내주는 사이트입니다. NodeJS + ReactJS 공부용으로 만들었습니다.
-  * 링크 : [herokuapp](https://desolate-ocean-25062.herokuapp.com/)
-  * 시연 영상 : [Google Drive Video](https://drive.google.com/open?id=19Qi9lNYFHi1Gd_Fgh8meC2stDWoIIgm8)
-  * 참여도 : 100%
-  * 사용기술 : NodeJS, Express, MongoDB, ReactJS, Redux
-  * 주요기능
-    - Stripe를 통한 결제 기능
-    - Social Login(Google)
-    - SendGrid 메일 API를 사용하여 다수의 고객에게 메일을 보낼 수 있음
-  * 기타 : 공부용으로 만든 것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-react-fullstack-web-development/)를 보고 따라 만들었습니다.
-<br><br> 
-  
-### `2018-10` FootballKik
-  * 소개 : 그룹 채팅 사이트입니다. NodeJS + Socket.io 공부용으로 제작하였습니다.
-  * 시연 영상 : [Google Drive Video](https://drive.google.com/open?id=105kDfa3i4c2x_Z6nHcEcuC7f6V3DUri0)
-  * 참여도 : 100%
-  * 사용기술 : NodeJS, Express, Socket.io, AWS, MongoDB, HTML, CSS, Javascript
-  * 주요기능
-    - 실시간 그룹 채팅
-    - Social Login(Google)
-    - AWS S3에 사용자 이미지 저장
-  * 기타 : 공부용으로 만든 것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
-<br><br>
