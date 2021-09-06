@@ -3,17 +3,17 @@
 > "Learn from error."
 
 * 이름 : 윤병인
-* 나이 : 25살(1995년생)
+* 나이 : 27살(1995년생)
 * 학력 : 고졸(한양대학교 에리카 중퇴)
 * 자격증/어학 : 정보처리 산업기사(2017.11), 토익(785점)
 * 기술
-  * Strong : WordPress, React(+Redux), SASS, Typescript(+Javascript), PHP, MySQL, NodeJS
-  * Knowledgeable : Linux, AWS, iOS(Swift), Android(Java)
+  * Strong : WordPress, React(+Redux), SASS, TS/JS, PHP, MySQL, NodeJS
+  * Knowledgeable : Linux, AWS, iOS(Swift), Android(Kotlin)
 * DevOps : Jira, Git, Trello
 * Interest : Web Programming
 * 오픈소스 참여 : [Anspress](https://github.com/anspress/anspress/commits?author=rpf5573), [zip-a-folder](https://github.com/maugenst/zip-a-folder/commits?author=rpf5573)
-* Links : [blog](https://yoon.site/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
-* E-mail : rpf5573@gmail.com
+* Links : [blog](https://develoger.kr/), [github](https://github.com/airman5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
+* E-mail : rpf5573@kakao.com
 <br><br><br>
 
 # Career
