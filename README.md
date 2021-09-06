@@ -96,7 +96,7 @@
     
 ### `2016-01 ~ 2016-09` DeepMind
   * 소개 : 이름과 달리 인공지능과 아무런 연관성이 없습니다. 이것 또한 아버지의 요청으로 만들게 되었습니다. Discovery와 기본적인 기능들은 같지만, 다른 팀원을 아웃시키는 기능이 있다는 특징이 있으며, Android와 iOS에서 구동되는 Native App입니다.
-  * 시연 영상 : [iOS App(Google Drive Video)](https://drive.google.com/open?id=1aV16rPiWpza38Gd7mnnHiiSaAhVwmk9M) , [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1zp97Hes7XKngk1i2oXv7zjm6zVJjO-9W), Android App
+  * 시연 영상 : <stroke>[iOS App(Google Drive Video)](https://drive.google.com/open?id=1aV16rPiWpza38Gd7mnnHiiSaAhVwmk9M) , [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1zp97Hes7XKngk1i2oXv7zjm6zVJjO-9W), Android App</stroke>
   * 참여도 : 100%
   * 사용기술 : PHP, Swift(iOS), Java(Android), MySQL, HTML, CSS, Javascript
   * 주요 기능
